@@ -1,0 +1,3 @@
+Function name: logger_testing
+Function execution date and time: 2021-05-03 15:35:50.329635
+Our result is: None
